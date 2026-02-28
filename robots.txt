@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://мфк-парк-сочи.рф/sitemap.xml
